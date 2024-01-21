@@ -1,0 +1,21 @@
+   history
+    1  mkdir git_session
+    2  ls
+    3  cd git_session
+    4  ls
+    5  ls -la
+    6  git init
+    7  ls -la
+    8  git init
+    9  ls -la
+   10  ls
+   11  git clone https://github.com/Shivi81/Shivi.git
+   12  cd shivi
+   13  git add.
+   14  git add .
+   15  git commit -m "uploading excel assignment"
+   16  git config --global user.email "shivangibhatnagar44@gmail.com"
+   17   git config --global user.name "Shivi81"
+   18  git commit -m "uploading excel assignment"
+   19  git push
+   20  history
